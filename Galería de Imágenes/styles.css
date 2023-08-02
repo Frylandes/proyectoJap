@@ -15,16 +15,21 @@ body {
     border: 1px solid gray;
     background-color: #807979;
     padding: 5px;
-<<<<<<< HEAD
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+h1, h2, p{
+    text-align:center;
+}
+
+div.contenedor{
+    display: flex;
+  justify-content: center;
 }
 
 h1 {
     font-family: 'Playfair Display', serif;
 text-decoration: underline;
-=======
     border-radius: 10px;
     box-shadow: 5px 5px #888888;
->>>>>>> 194ad089a951a93d655451eb2ed8c6bca21a22ff
 }
