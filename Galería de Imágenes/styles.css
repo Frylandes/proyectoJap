@@ -11,10 +11,11 @@ body {
 
 .link-button {
     text-decoration: none;
-    color: black;
+    color: rgb(187, 199, 26);
     border: 1px solid gray;
-    background-color: #f2f2f2;
+    background-color: #807979;
     padding: 5px;
+<<<<<<< HEAD
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
@@ -22,4 +23,8 @@ body {
 h1 {
     font-family: 'Playfair Display', serif;
 text-decoration: underline;
+=======
+    border-radius: 10px;
+    box-shadow: 5px 5px #888888;
+>>>>>>> 194ad089a951a93d655451eb2ed8c6bca21a22ff
 }
