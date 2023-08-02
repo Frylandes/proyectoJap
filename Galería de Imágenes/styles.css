@@ -1,19 +1,39 @@
+/*cambios de colores para una mejor aceptacion visual en "body" e ".image"*/
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(8, 77, 110);
 }
 
-.image{
-    border: 5px solid green;
+.image {
+    border: 5px solid rgb(22.3, 48.6, 36.4);
     border-radius: 10px;
+    width: 600px;
     height: 400px;
 }
 
 .link-button {
     text-decoration: none;
-    color: rgb(187, 199, 26);
+    color: rgb(8, 77, 110);
     border: 1px solid gray;
-    background-color: #807979;
+    background-color: gray;
     padding: 5px;
+    border-radius: 15px;
+    box-shadow: 5px 5px #888888;
+}
+
+h1,
+h2,
+p {
+    text-align: center;
+}
+
+div.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    text-decoration: underline;
     border-radius: 10px;
     box-shadow: 5px 5px #888888;
 }
