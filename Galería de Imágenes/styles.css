@@ -1,35 +1,38 @@
+/*cambios de colores para una mejor aceptacion visual en "body" e ".image"*/
 body {
-    background-color: rgb(255, 255, 165);
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(8, 77, 110);
 }
 
-.image{
-    border: 5px solid green;
+.image {
+    border: 5px solid rgb(22.3, 48.6, 36.4);
     border-radius: 10px;
-    height: 500px;
+    height: 400px;
 }
 
 .link-button {
     text-decoration: none;
-    color: rgb(187, 199, 26);
+    color: black;
     border: 1px solid gray;
-    background-color: #807979;
+    background-color: #f2f2f2;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
-h1, h2, p{
-    text-align:center;
+
+h1,
+h2,
+p {
+    text-align: center;
 }
 
-div.contenedor{
+div.contenedor {
     display: flex;
-  justify-content: center;
+    justify-content: center;
 }
 
 h1 {
     font-family: 'Playfair Display', serif;
-text-decoration: underline;
+    text-decoration: underline;
     border-radius: 10px;
     box-shadow: 5px 5px #888888;
 }
