@@ -12,12 +12,12 @@ body {
 
 .link-button {
     text-decoration: none;
-    color: black;
+    color: rgb(8, 77, 110);
     border: 1px solid gray;
-    background-color: #f2f2f2;
+    background-color: gray;
     padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
+    border-radius: 15px;
+    box-shadow: 5px 5px #888888;
 }
 
 h1,
