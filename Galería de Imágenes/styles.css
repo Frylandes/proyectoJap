@@ -1,9 +1,10 @@
+/*cambios de colores para una mejor aceptacion visual en "body" e ".image"*/
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(8, 77, 110);
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid rgb(22.3, 48.6, 36.4) ;
     border-radius: 10px;
     width: 600px;
     height: 400px;
