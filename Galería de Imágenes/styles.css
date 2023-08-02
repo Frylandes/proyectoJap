@@ -1,11 +1,12 @@
 body {
     background-color: rgb(255, 255, 165);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .image{
     border: 5px solid green;
     border-radius: 10px;
-    height: 400px;
+    height: 500px;
 }
 
 .link-button {
@@ -16,4 +17,9 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+text-decoration: underline;
 }
